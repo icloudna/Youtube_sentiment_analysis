@@ -14,8 +14,7 @@
 
 Train set: NSMC Training set 100,000개
 
-Test set: 직접 크롤링을 이용하여 총 3505개의 유튜브 댓글 긍정 1, 부정 0으로 labeling한 data 3505개
-+ NSMC Test set 50,000개
+Test set: 직접 크롤링을 이용하여 총 3505개의 유튜브 댓글 긍정 1, 부정 0으로 labeling한 data 3505개 & NSMC Test set 50,000개
 
 ## 3. 전처리
 
